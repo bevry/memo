@@ -56,11 +56,10 @@ Wrap a function in a memo to reuse the first invocation result of the function
 
 <p>This package is published with the following editions:</p>
 
-<ul><li><code>@bevry/memo</code> aliases <code>@bevry/memo/index.js</code> which uses <a href="https://editions.bevry.me" title="Editions are the best way to produce and consume packages you care about.">Editions</a> to automatically select the correct edition for the consumers environment</li>
-<li><code>@bevry/memo/source/index.ts</code> is typescript source code with import for modules</li>
+<ul><li><code>@bevry/memo/source/index.ts</code> is typescript source code with import for modules</li>
 <li><code>@bevry/memo/edition-browsers/index.js</code> is typescript compiled for browsers with import for modules</li>
-<li><code>@bevry/memo/edition-node-11/index.js</code> is typescript compiled for node.js 11 with require for modules</li>
-<li><code>@bevry/memo/edition-node-4/index.js</code> is typescript compiled for node.js 4 with require for modules</li></ul>
+<li><code>@bevry/memo</code> aliases <code>@bevry/memo/edition-node-12/index.js</code></li>
+<li><code>@bevry/memo/edition-node-12/index.js</code> is typescript compiled for node.js 12 with require for modules</li></ul>
 
 <!-- /INSTALL -->
 

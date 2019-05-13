@@ -9,5 +9,7 @@
     "strict": true,
     "target": "esnext"
   },
-  "include": ["source"]
+  "include": [
+    "source"
+  ]
 }
