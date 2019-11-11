@@ -110,7 +110,7 @@
     "@babel/preset-typescript": "^7.6.0",
     "@typescript-eslint/eslint-plugin": "^2.2.0",
     "@typescript-eslint/parser": "^2.2.0",
-    "assert-helpers": "^4.9.6",
+    "assert-helpers": "^5.0.0",
     "babel-plugin-add-module-exports": "^1.0.2",
     "eslint": "^6.3.0",
     "eslint-config-bevry": "^1.2.1",
