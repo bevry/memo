@@ -68,7 +68,7 @@ Wrap a function in a memo to reuse the first invocation result of the function
 [API Documentation.](http://master.memo.bevry.surge.sh/docs/)
 
 ```javascript
-const memo = require('@bevry/memo')
+import memo from '@bevry/memo'
 
 let count = 0
 function counter() {
