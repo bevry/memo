@@ -8,8 +8,8 @@ function counter() {
 	return ++count
 }
 
-kava.suite('memo', function(suite, test) {
-	test('works as expected', function() {
+kava.suite('memo', function (suite, test) {
+	test('works as expected', function () {
 		const fn = memo(counter)
 		equal(count, 0)
 		equal(fn(), 1)
