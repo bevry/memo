@@ -66,7 +66,7 @@ counterMemo() // returns 1
 
 ``` html
 <script type="module">
-    import pkg from '//cdn.pika.dev/@bevry/memo/^3.2.0'
+    import pkg from '//cdn.pika.dev/@bevry/memo/^3.3.0'
 </script>
 ```
 
@@ -74,7 +74,7 @@ counterMemo() // returns 1
 
 ``` html
 <script type="module">
-    import pkg from '//unpkg.com/@bevry/memo@^3.2.0'
+    import pkg from '//unpkg.com/@bevry/memo@^3.3.0'
 </script>
 ```
 
@@ -82,7 +82,7 @@ counterMemo() // returns 1
 
 ``` html
 <script type="module">
-    import pkg from '//dev.jspm.io/@bevry/memo@3.2.0'
+    import pkg from '//dev.jspm.io/@bevry/memo@3.3.0'
 </script>
 ```
 
