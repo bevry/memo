@@ -1,7 +1,7 @@
 import { equal } from 'assert-helpers'
 import kava from 'kava'
 
-import memo from './'
+import memo from './index.js'
 
 let count = 0
 function counter() {
