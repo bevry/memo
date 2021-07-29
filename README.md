@@ -35,7 +35,7 @@ Wrap a function in a memo to reuse the first invocation result of the function
 
 ## Usage
 
-[Complete API Documentation.](http://master.memo.bevry.surge.sh/docs/globals.html)
+[Complete API Documentation.](http://master.memo.bevry.surge.sh/docs/)
 
 ```javascript
 import memo from '@bevry/memo'
@@ -65,14 +65,14 @@ counterMemo() // returns 1
 <a href="https://deno.land" title="Deno is a secure runtime for JavaScript and TypeScript, it is an alternative for Node.js"><h3>Deno</h3></a>
 
 ``` typescript
-import pkg from 'https://unpkg.com/@bevry/memo@^3.16.0/edition-deno/index.ts'
+import pkg from 'https://unpkg.com/@bevry/memo@^3.17.0/edition-deno/index.ts'
 ```
 
 <a href="https://www.skypack.dev" title="Skypack is a JavaScript Delivery Network for modern web apps"><h3>Skypack</h3></a>
 
 ``` html
 <script type="module">
-    import pkg from '//cdn.skypack.dev/@bevry/memo@^3.16.0'
+    import pkg from '//cdn.skypack.dev/@bevry/memo@^3.17.0'
 </script>
 ```
 
@@ -80,7 +80,7 @@ import pkg from 'https://unpkg.com/@bevry/memo@^3.16.0/edition-deno/index.ts'
 
 ``` html
 <script type="module">
-    import pkg from '//unpkg.com/@bevry/memo@^3.16.0'
+    import pkg from '//unpkg.com/@bevry/memo@^3.17.0'
 </script>
 ```
 
@@ -88,7 +88,7 @@ import pkg from 'https://unpkg.com/@bevry/memo@^3.16.0/edition-deno/index.ts'
 
 ``` html
 <script type="module">
-    import pkg from '//dev.jspm.io/@bevry/memo@3.16.0'
+    import pkg from '//dev.jspm.io/@bevry/memo@3.17.0'
 </script>
 ```
 
